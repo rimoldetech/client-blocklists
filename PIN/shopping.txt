@@ -6,14 +6,15 @@
 # Amazon
 ||amazon.com^
 
-
 # Craigslist
 ||craigslist.org^
-
 
 # eBay
 ||ebay.com^
 
+#Target
+||target.com^
+||targetimg1.com^
 
 
 ## Less common stuff
@@ -28,9 +29,19 @@
 # American Eagle & Aerie
 ||ae.com^
 
+# Forever 21
+||forever21.com^
+
 # H&M
 ||hm.com^
 
+# Pretty Little Thing
+||prettylittlething.com^
+||prettylittlething.us^
+
+# Urban Outfitters
+||urbanoutfitters.com^
+||urbn.my.salesforce.com^
 
 
 ## Payment processors for good measure.
