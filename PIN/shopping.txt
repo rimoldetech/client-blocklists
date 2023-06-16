@@ -1,4 +1,35 @@
 ## Blocklist for shopping sites.
 
 
+## The "big names".
+# Amazon
+||amazon.com^
+
+
+# Craigslist
+||craigslist.org^
+
+
+# eBay
+||ebay.com^
+
+
+
+## Less common stuff
+# AliExpress
+||aliexpress.com^
+||aliexpress.us^
+
+# Alibaba
+||alibaba.com^
+
+# American Eagle & Aerie
+||ae.com^
+
+# H&M
+||hm.com^
+
+
+
+## Payment processors for good measure.
 #
