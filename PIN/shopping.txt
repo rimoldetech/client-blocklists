@@ -2,6 +2,7 @@
 
 
 ## The "big names".
+
 # Amazon
 ||amazon.com^
 
@@ -16,6 +17,7 @@
 
 
 ## Less common stuff
+
 # AliExpress
 ||aliexpress.com^
 ||aliexpress.us^
@@ -32,4 +34,27 @@
 
 
 ## Payment processors for good measure.
-#
+
+#Cash App
+||cash.app^
+
+# PayPal
+||paypal.com^
+||paypal.me^
+||paypalobjects.com^
+
+# Shopify
+||shopify.com^
+
+# Stripe
+||stripe.com^
+
+# Square
+||squareup.com^
+||squarecloudservices.com^
+||squarecdn.com^
+
+#Venmo
+||venmo.com^
+||venmo.s3.amazonaws.com^
+
