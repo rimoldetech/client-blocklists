@@ -13,6 +13,8 @@
 ||discord.dev^
 ||discord.gift^
 
+# LinkedIn
+||linkedin.com^
 
 # Telegram
 ||telegram.org^
