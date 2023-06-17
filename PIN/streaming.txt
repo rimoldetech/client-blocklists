@@ -3,11 +3,31 @@
 
 # Hulu
 
+# iHeart
+||iheart.com^
+||dualstack.prod.iheart.map.fastly.net^
+||iheartmedia.map.fastly.net^
 
 # Netflix
+
+# Pandora
 
 
 # Spotify
 ||spotify.com^
 ||spotifycdn.com^
 ||audio-ak-spotify-com.akamaized.net^
+
+# Vimeo
+||vimeo.com^
+||vimeocdn.com^
+||vimeo-video.map.fastly.net^
+
+# YouTube
+||youtube.com^
+||youtu.be^
+||youtube-nocookie.com^
+||youtube-ui.l.google.com^
+||youtubei.googleapis.com^
+||youtube.googleapis.com^
+||googlevideo.com^
