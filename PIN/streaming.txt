@@ -2,6 +2,11 @@
 
 
 # Hulu
+||hulu.com^
+||hulustream.com^
+||cws-hulu.conviva.com^
+||assetshuluimcom-a.akamaihd.net^
+||hulu.hb-api.omtrdc.net^
 
 # iHeart
 ||iheart.com^
@@ -9,9 +14,13 @@
 ||iheartmedia.map.fastly.net^
 
 # Netflix
+||netflix.com^
+||nflxext.com^
+||nflxso.net^
 
 # Pandora
-
+||pandora.com^
+||phmryp.com^
 
 # Spotify
 ||spotify.com^
