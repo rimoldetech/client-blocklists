@@ -1,6 +1,15 @@
 ## Blocklist for various music and video streaming sites.
 
 
+# Apple Music / iTunes
+||music.apple.com^
+||buy.itunes-apple.com.akadns.net^
+||itunes.apple.com^
+
+# Deezer
+||deezer.com^
+||dzcdn.net^
+
 # Hulu
 ||hulu.com^
 ||hulustream.com^
@@ -12,6 +21,9 @@
 ||iheart.com^
 ||dualstack.prod.iheart.map.fastly.net^
 ||iheartmedia.map.fastly.net^
+
+# Napster
+||napster.com^
 
 # Netflix
 ||netflix.com^
@@ -26,6 +38,9 @@
 ||spotify.com^
 ||spotifycdn.com^
 ||audio-ak-spotify-com.akamaized.net^
+
+# Tidal
+||tidal.com^
 
 # Vimeo
 ||vimeo.com^
