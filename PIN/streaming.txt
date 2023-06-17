@@ -1,0 +1,13 @@
+## Blocklist for various music and video streaming sites.
+
+
+# Hulu
+
+
+# Netflix
+
+
+# Spotify
+||spotify.com^
+||spotifycdn.com^
+||audio-ak-spotify-com.akamaized.net^
