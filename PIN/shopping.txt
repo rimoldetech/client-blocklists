@@ -5,17 +5,45 @@
 
 # Amazon
 ||amazon.com^
+||amazontrust.com^
+
+# Costco
+||costco.com^
+||costco-static.com^
+||costco.dn.apigee.net^
 
 # Craigslist
 ||craigslist.org^
 
 # eBay
 ||ebay.com^
+||ebayimg.com^
+||ebaystatic.com^
+
+# JCPenny
+||jcpenney.com^
+||static-jcpenney.com^
+||mkt-jcpenney.com^
+||jcpenney.scene7.com^
+
+# Kohl's
+||kohls.com^
+||kohlsimg.com^
+
+# Macy's
+||macys.com^
+||macysassets.com^
+
+# Sam's Club
+||samsclub.com^
 
 #Target
 ||target.com^
 ||targetimg1.com^
 
+# Walmart
+||walmart.com^
+||walmartimages.com^
 
 ## Less common stuff
 
@@ -44,26 +72,26 @@
 ||urbn.my.salesforce.com^
 
 
-## Payment processors for good measure.
+## Payment processors for good measure. Disabled for now.
 
 #Cash App
-||cash.app^
+#||cash.app^
 
 # PayPal
-||paypal.com^
-||paypal.me^
-||paypalobjects.com^
+#||paypal.com^
+#||paypal.me^
+#||paypalobjects.com^
 
 # Shopify
-||shopify.com^
+#||shopify.com^
 
 # Stripe
-||stripe.com^
+#||stripe.com^
 
 # Square
-||squareup.com^
-||squarecloudservices.com^
-||squarecdn.com^
+#||squareup.com^
+#||squarecloudservices.com^
+#||squarecdn.com^
 
 #Venmo
 ||venmo.com^
