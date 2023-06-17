@@ -10,6 +10,12 @@
 ||deezer.com^
 ||dzcdn.net^
 
+# Disney+
+||disneyplus.com^
+||go.com^
+||disney-plus.net^
+||disney.connections.edge.bamgrid.com^
+
 # Hulu
 ||hulu.com^
 ||hulustream.com^
