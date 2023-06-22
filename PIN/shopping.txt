@@ -4,8 +4,13 @@
 ## The "big names".
 
 # Amazon
-||amazon.com^
+amazon.com
+||www.amazon.com^
+||completion.amazon.com^
 ||amazontrust.com^
+||media.amazon.map.fastly.net^
+||media-amazon.com^
+||ssl-images-amazon.com^
 
 # Costco
 ||costco.com^
