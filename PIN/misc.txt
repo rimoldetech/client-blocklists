@@ -1,0 +1,12 @@
+### Various domains that are being blocked out of precaution.
+
+## Old remote control utilities that are no longer in use.
+# AnyDesk
+||anydesk.com^
+
+# Zoho
+||zoho.com^
+
+## Things agents shouldn't need for work.
+# Gmail (Google Mail)
+||mail.google.com^
