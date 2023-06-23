@@ -1,6 +1,11 @@
 ## Blocklist for various music and video streaming sites.
 
 
+# Amazon Music
+||music.amazon.com^
+||music-xray-service.amazon.com^
+||music.amazon.dev^
+
 # Apple Music / iTunes
 ||music.apple.com^
 ||buy.itunes-apple.com.akadns.net^
