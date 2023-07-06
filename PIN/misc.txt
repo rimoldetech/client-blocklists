@@ -4,6 +4,9 @@
 # AnyDesk
 ||anydesk.com^
 
+# TeamViewer
+||teamviewer.com^
+
 # Zoho
 ||zoho.com^
 
