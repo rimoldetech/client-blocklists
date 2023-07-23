@@ -76,6 +76,9 @@ amazon.com
 ||prettylittlething.com^
 ||prettylittlething.us^
 
+# Temu
+||temu.com^
+
 # Urban Outfitters
 ||urbanoutfitters.com^
 ||urbn.my.salesforce.com^
