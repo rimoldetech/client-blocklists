@@ -19,6 +19,9 @@
 # TeamViewer
 ||teamviewer.com^
 
+# UltraViewer
+||ultraviewer.net^
+
 # Zoho
 ||zoho.com^
 
