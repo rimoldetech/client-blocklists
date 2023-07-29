@@ -4,6 +4,18 @@
 # AnyDesk
 ||anydesk.com^
 
+# GoSupportNow
+||gosupportnow.com^
+
+# GoTo (Meeting)
+||goto.com^
+||gotomeeting.com^
+||joingotomeeting.com^
+
+# LogMeIn
+||logmein.com^
+||logmeininc.com^
+
 # TeamViewer
 ||teamviewer.com^
 
