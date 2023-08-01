@@ -5,7 +5,8 @@
 ||anydesk.com^
 
 # GoSupportNow
-||gosupportnow.com^
+# Actually needed for NASASoft
+#||gosupportnow.com^
 
 # GoTo (Meeting)
 ||goto.com^
