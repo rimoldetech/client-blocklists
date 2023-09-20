@@ -4,10 +4,6 @@
 # AnyDesk
 ||anydesk.com^
 
-# GoSupportNow
-# Actually needed for NASASoft
-#||gosupportnow.com^
-
 # TeamViewer
 ||teamviewer.com^
 
