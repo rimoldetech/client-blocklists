@@ -8,15 +8,6 @@
 # Actually needed for NASASoft
 #||gosupportnow.com^
 
-# GoTo (Meeting)
-||goto.com^
-||gotomeeting.com^
-||joingotomeeting.com^
-
-# LogMeIn
-||logmein.com^
-||logmeininc.com^
-
 # TeamViewer
 ||teamviewer.com^
 
