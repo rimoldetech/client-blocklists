@@ -23,7 +23,6 @@
 # Firefox
 ||addons.mozilla.org^
 
-
 ## Things agents shouldn't need for work.
 # Gmail (Google Mail)
 ||mail.google.com^
