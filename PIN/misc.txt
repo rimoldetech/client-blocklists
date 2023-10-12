@@ -13,6 +13,17 @@
 # Zoho
 ||zoho.com^
 
+## Various domains for browser extensions.
+# Chrome
+||chrome.google.com^
+
+# Edge
+||microsoftedge.microsoft.com^
+
+# Firefox
+||addons.mozilla.org^
+
+
 ## Things agents shouldn't need for work.
 # Gmail (Google Mail)
 ||mail.google.com^
