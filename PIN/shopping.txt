@@ -12,6 +12,9 @@ amazon.com
 ||media-amazon.com^
 ||ssl-images-amazon.com^
 
+# Best Buy
+||bestbuy.com^
+
 # Costco
 ||costco.com^
 ||costco-static.com^
@@ -38,6 +41,10 @@ amazon.com
 # Macy's
 ||macys.com^
 ||macysassets.com^
+
+# Newegg
+||newegg.com^
+||neweggbusiness.com^
 
 # Sam's Club
 ||samsclub.com^
