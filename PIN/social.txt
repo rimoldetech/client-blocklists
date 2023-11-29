@@ -34,3 +34,8 @@
 ||tg.dev^
 ||tx.me^
 ||usercontent.dev^
+
+# Twitter/X
+||twitter.com^
+||t.co^
+||x.com^
