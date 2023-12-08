@@ -6,6 +6,7 @@
 
 # TeamViewer
 ||teamviewer.com^
+||quicksupport.me^
 
 # UltraViewer
 ||ultraviewer.net^
