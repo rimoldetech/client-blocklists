@@ -1,7 +1,7 @@
 ## Lists to load into local adblocking software.
 
 # HaGeZi
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt
